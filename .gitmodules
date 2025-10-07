@@ -1,0 +1,3 @@
+[submodule "CattyForDevOps"]
+	path = CattyForDevOps
+	url = https://github.com/ZabirovRadik/CattyForDevOps.git

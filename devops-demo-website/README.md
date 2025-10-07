@@ -19,7 +19,7 @@ demo-website/
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/prafdin/devops-demo-website.git
+   git clone https://github.com/ZabirovRadik/DevOps1.git
    cd devops-demo-website
    ```
 
